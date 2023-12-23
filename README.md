@@ -18,19 +18,20 @@ This winter school aims to explore the role of self-organization in machine lear
 
 Event Details:
 
-• Date: December 11th-13th, 2023
-• Location: BW Hotel Nierstein, An d. Kaiserlinde 1, 55283 Nierstein
-• Target Audience: PhD students
+* Date: December 11th-13th, 2023
+* Location: BW Hotel Nierstein, An d. Kaiserlinde 1, 55283 Nierstein
+* Target Audience: PhD students
 
 Session Topics:
 
-• Machine Learning techniques and methods
-• Data Modelling
-• Unconventional computing
-• Dynamical and complex systems
-• Neuroscience and representative models
+* Machine Learning techniques and methods
+* Data Modelling
+* Unconventional computing
+* Dynamical and complex systems
+* Neuroscience and representative models
 
 Information:
+
 Join us for a workshop led by Prof. Dr. Lyudmila Grigoryeva, a distinguished researcher in machine learning for dynamic processes. The workshop will focus on two key areas: theoretical foundations of machine learning for dynamic processes, particularly Reservoir Computing, and the modeling and predicting time series data using parametric and non-parametric machine learning models.
 The workshop will explore the practical applications of these approaches across various fields, focusing on natural sciences. Additionally, the significance of reliable and understandable learning models will be discussed. The key challenges in this domain include designing machine learning models, which guarantee a quantified quality of learning on finite samples and hence allow for their implementation in applications in sensible domains.
 Prof. Dr. Lyudmila Grigoryeva's extensive research spans multiple disciplines, including data science, dynamical systems, statistical learning, and others. Her contributions have been featured in leading machine learning and computational science journals, earning her recognition and awards.
